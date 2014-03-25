@@ -9,6 +9,8 @@ SUMMARY="Media art cache library"
 DESCRIPTION="GObject library tasked with managing, extracting and handling
 media art caches."
 
+PATCH_URI="0.3.0-no-undefined.patch"
+
 CYGCONF_ARGS="--enable-gdkpixbuf"
 
 PKG_NAMES="${NAME}_0 ${NAME}-devel ${NAME}-doc girepository-MediaArt1.0 vala-${NAME}"
