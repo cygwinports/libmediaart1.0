@@ -2,7 +2,7 @@ ORIG_PN="libmediaart"
 inherit gnome2
 
 NAME="libmediaart1.0"
-VERSION=0.3.0
+VERSION=0.7.0
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="Media art cache library"
